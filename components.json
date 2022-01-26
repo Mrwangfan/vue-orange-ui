@@ -1,0 +1,4 @@
+{
+  "index": "./src/index.js",
+  "cld-test": "./src/components/CldTest"
+}
